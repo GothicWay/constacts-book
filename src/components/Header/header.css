@@ -1,0 +1,12 @@
+.App-logo {
+  width: auto;
+  height: 50px;
+}
+
+.App-header {
+  flex-direction: row;
+  background-color: white;
+  width: 100%;
+  padding-top: 0.1%;
+  color: gray;
+}

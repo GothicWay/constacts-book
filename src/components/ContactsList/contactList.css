@@ -1,0 +1,20 @@
+.contact-view {
+ 	list-style-type: none;
+ 	padding-right: 10px;
+    text-align: left;
+    height: 50px;
+    background-color: white;
+    border-top: 1px solid grey;
+}
+
+.contact-name {
+	float:left;
+	font-size: 15px;
+}
+
+.contact-avatar {
+	float:right;
+	margin-top: 10px;
+	height: 30px;
+	border-radius: 15px;
+}
